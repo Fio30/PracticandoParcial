@@ -1,3 +1,3 @@
 # clasedeprueba
-~~hola soy Fio y soy kchimba~~
+~~hola soy Piero y soy kchimba~~
 hola
