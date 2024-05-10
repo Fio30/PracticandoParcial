@@ -1,4 +1,1 @@
-# clasedeprueba
-hola
-linea
-4+8
+# Practicando para el parcial
